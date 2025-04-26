@@ -1,0 +1,581 @@
+﻿Prologue/Dialogues
+Intro[edit | edit source]
+This text appears at the start of the chapter. It is not said by anyone, but appears at the center of the screen, representing Madeline's thoughts as she approaches the Mountain.
+* This is it, Madeline.
+* Just breathe.
+* Why are you so nervous?
+Granny's shack[edit | edit source]
+This dialogue takes place when Madeline reaches Granny's shack.
+* Madeline: Excuse me, ma'am?
+The sign out front is busted... is this the Mountain trail?
+* Old Woman: You're almost there. It's just across the bridge.
+* Madeline: By the way, you should call someone about your driveway. The ridge collapsed and I nearly died.
+* Old Woman: If my "driveway" almost did you in, the Mountain might be a bit much for you.
+* Madeline: ...
+Well, if an old bat like you can survive out here, I think I'll be fine.
+* Old Woman: Suit yourself.
+But you should know, Celeste Mountain is a strange place.
+You might see things.
+Things you ain't ready to see.
+* Madeline: You should seek help, lady.
+Outro[edit | edit source]
+Upon Madeline successfully crossing the bridge, the camera scrolls upwards and the following text appears:
+   * You can do this.
+
+
+Forsaken City/Dialogues
+Theo[edit | edit source]
+Theo first appears in Forsaken City. It is possible, though not mandatory, to trigger several conversations with him, one after the other.
+First[edit | edit source]
+   * Theo: Ho there, fellow traveller!
+   * Madeline: Oh... hi.
+   * Theo: What a killer night for a hike!
+   * Madeline: I guess so.
+   * Theo: This place is so crazy.
+I kind of can't believe it exists!
+   * Madeline: Not the easiest climb, is it?
+But I guess that's what I was looking for...
+   * Theo: Whoa, that sounds pretty serious.
+I'm just happy to see another human in such a lonely place.
+I'm Theo by the way, an adventurer from a far off land!
+   * Madeline: ...
+   * Theo: Not much of a talker, are you?
+Mysterious lone wolf type, I get it. I'll just imagine some dark backstory for you.
+Second[edit | edit source]
+      * Madeline: Hey, sorry. I'm Madeline.
+I've got a lot on my mind.
+      * Theo: Well, Madeline, I'd say you've come to the right place!
+I'm freezing my toes off, but I can't imagine a better place to be for some quiet reflection.
+      * Madeline: Yeah, maybe you're right.
+What "far off land" do you hail from?
+      * Theo: Well, my inquisitive compatriot, I doth hail from the mystical, exotic kingdom of...
+Seattle.
+      * Madeline: It sounds like a special place.
+Third[edit | edit source]
+         * Theo: This place is wild!
+Why would an entire city be abandoned?
+         * Madeline: I read that some mega-corporation started building it, but then no one wanted to live here.
+I wonder why...
+         * Theo: My money's on a government cover-up.
+         * Madeline: What a waste, to build all of this for no reason...
+         * Theo: At least we get to enjoy the leftovers.
+Fourth[edit | edit source]
+            * Madeline: Are you here to explore this city?
+            * Theo: Yeah, I have a thing for abandoned places.
+And I like to think of myself as a budding photographer.
+            * Madeline: Oh really? Cool!
+Do you have a blog or something?
+            * Theo: A blog?
+Madeline.
+Everyone uses InstaPix now.
+I'm TheoUnderStars, look me up!
+Fifth[edit | edit source]
+               * Theo: This terrain is pretty tricky, are you turning back soon?
+               * Madeline: Nope. I'm heading for the summit.
+               * Theo: I can really see the determination in your eyes!
+It's inspiring.
+               * Madeline: If you say so.
+I bet you could make it to the summit too.
+               * Theo: Maybe.
+I don't really care about reaching the top, TBH.
+Oh! But I heard there are some legit old ruins up beyond the city.
+Like 1800's legit.
+I know it's risky but I have to see them for myself.
+Sixth[edit | edit source]
+                  * Theo: What's that thing you say right before you do something irresponsible?
+                  * Madeline: Uh... "throw caution to the wind?"
+                  * Theo: No, that's not it.
+Oh right...
+
+YOLOOOOOOOOO!!
+Outro[edit | edit source]
+
+
+
+Celeste Memorial
+The following is said by Madeline upon reaching the Celeste Memorial, marking the end of the chapter.
+                     * Madeline: Ugh, I'm exhausted.
+[Madeline makes a campfire and sits down to rest, when a bird swoops in and lands on her head.]
+                     * Madeline: This might have been a mistake.
+
+
+Old Site/Dialogues
+Badeline[edit | edit source]
+Badeline starts a conversation at the beginning of the Intervention checkpoint. After it, she starts chasing Madeline.
+                     * Badeline: Madeline, darling, slow down.
+                     * Madeline: Who said that?
+                     * Badeline: Oh, I'm simply a concerned observer.
+                     * Madeline: Are you... me?
+                     * Badeline: I'm Part of You.
+                     * Madeline: Why would Part of Me look so creepy?
+                     * Badeline: ...
+This is just what I look like, okay?
+Deal with it.
+                     * Madeline: Sorry, I didn't mean-
+                     * Badeline: Forget about it.
+I can't tell you what a relief it is to finally get out of your head.
+But look, I'm worried about us.
+We need a hobby, but this...
+                     * Madeline: I know it sounds crazy, but I need to climb this Mountain.
+                     * Badeline: You are many things, darling, but you are not a mountain climber.
+                     * Madeline: Who says I can't be?
+                     * Badeline: I know it's not your strong suit, but be reasonable for once.
+You have no idea what you're getting into.
+You can't handle this.
+                     * Madeline: That is exactly why I need to do this.
+Are you the weak Part of Me, or the lazy part?
+                     * Badeline: I'm the pragmatic part.
+And I'm trying to be diplomatic here.
+Let's go home together.
+Phone call (Dream)[edit | edit source]
+At the end of Intervention, the phone rings. Madeline picks it up, and the following conversation occurs.
+                        * Madeline: Hello?
+                        * Ex[1]: Madeline?
+...are you calling from a payphone?
+                        * Madeline: Yeah.
+No, wait... you called me.
+                        * Ex: What are you talking about?
+                        * Madeline: It doesn't matter. I'm in trouble.
+I'm being chased by... someone.
+I don't really understand what's going on, but I know I'm in danger. I can feel it.
+                        * Ex: Madeline, you only call me when you're panicking in the middle of the night.
+You don't have to make up some ridiculous story just to get my attention.
+                        * Madeline: I'm not making it up!
+You always do this!
+                        * Ex: Shhh it's alright, calm down.
+I'm sorry sweetheart.
+Talk to me.
+                        * Madeline: I'm climbing Celeste Mountain. I found this old mirror, and it shattered, but part of me escaped, and...
+...
+...I'm dreaming, aren't I?
+                        * Ex: Madeline. Of course you're dreaming.
+I haven't spoken to you in months.
+Why would I start now?
+                        * Madeline: Ugh! Why am I even climbing this stupid Mountain?
+[Badeline suddenly appears]
+                           * Badeline: I'm wondering the same thing.
+It's time to give up and go home.
+Theo[edit | edit source]
+There are several conversations possible with Theo, depending on whether Madeline met him in Forsaken City.
+Never talked[edit | edit source]
+                              * Theo: Ho there, fellow explorer!
+                              * Madeline: Oh... hi.
+                              * Theo: Did you also trek up here to scope out these old ruins?
+                              * Madeline: Uhh... no, I'm headed for the summit.
+                              * Theo: Whoa, that's crazy!
+I'm Theo by the way, an adventurer from a far off land!
+                              * Madeline: ...
+                              * Theo: Not much of a talker, are you?
+Mysterious lone wolf type, I get it. I'll just imagine some dark backstory for you.
+Not introduced (Theo doesn't know her name)[edit | edit source]
+                                 * Madeline: Hey Theo, sorry about earlier. I'm Madeline.
+I've got a lot on my mind.
+                                 * Theo: Well this is a good place for it.
+Something about these ruins feels so introspective.
+It's really making me take a look in the mirror, so to speak.
+                                 * Madeline: Yeah... I get that.
+So what "far off land" do you hail from?
+                                 * Theo: Well, my inquisitive compatriot, I doth hail from the mystical, enigmatic kingdom of...
+Seattle.
+                                 * Madeline: It sounds like a special place.
+Met and introduced[edit | edit source]
+                                    * Theo: Hey, Madeline! You made it! Climbing up here was tough, but totally worth it. Just look at these ruins! I took so many great pics, wanna see?
+                                    * Madeline: Oh... sure.
+[Madeline goes over to Theo, and he flicks through his pictures]
+                                    * Madeline: Theo, these are great!
+                                    * Theo: Maybe I'lll finally hit a thousand followers with these. Oh! We need to formally commemorate this occasion... Take a selfie with me!
+                                    * Madeline: Uhh... I don't know if that's such a good idea right now...
+                                    * Theo: Come on, it's easy. Like this!
+[Theo snaps a selfie]
+                                    * Madeline: ...
+Interact again[edit | edit source]
+                                    * Theo: Sorry about that. Don't worry, I won't post that one.
+                                    * Madeline: ... No, it's alright. You can post it. I'm just not... photogenic.
+                                    * Theo: Madeline, don't be so hard on yourself! No one looks good without a filter.
+[Theo applies a filter to the photo]
+                                    * Theo: Casual, yet refined.
+Third interaction[edit | edit source]
+                                    * Madeline: What made you want to try photography?
+                                    * Theo: My grandpa was really into it. Apparently he was semi-famous in the photography world. I don't know if I'll ever be that good at it. But it's nice to feel close to him.
+Fourth interaction[edit | edit source]
+                                    * Theo: So you're determined to climb the entire Mountain?
+                                    * Madeline: Yeah, I told myself I would. I'm done breaking promises to myself.
+                                    * Theo: Life goals! I dig it. I doubt I'll make it to the top like you, but I'm not ready to turn back just yet.
+Fifth interaction[edit | edit source]
+                                    * Theo: Are you getting any data up here?
+                                    * Madeline: I don't have a smartphone.
+                                    * Theo: Madeline. I don't even know how to respond to that.
+Phone Call (Awake)[edit | edit source]
+At the end of the 'Awake' subchapter, Madeline uses the payphone to call her mother.
+                                    * Mom: Hello?
+                                    * Madeline: Hey Mom.
+                                    * Mom: Madeline, what a nice surprise! How's your trip?
+                                    * Madeline: It's okay, I'm just kind of... overwhelmed.
+                                    * Mom: Oh no, are you having another panic attack? Focus on your breathing honey, I'm here. What's going on?
+
+
+Celestial Resort/Dialogues
+Hotel Lobby[edit | edit source]
+On the front desk, there is a piece of paper that reads "PLEASE RING FOR SERVICE" over a bell. After hitting the bell, Mr. Oshiro appears.
+                                    * Mr. Oshiro: Welcome! May I help you?
+                                    * Madeline: Are you... a ghost?
+                                    * Mr. Oshiro: A ghost? Don't be silly. I am the concierge of this fine establishment. Welcome to the world-renowned Celestial Resort Hotel! Mr. Oshiro, at your service. (Two guests in one day! Business is finally picking up!)How long will you be staying with us?
+                                    * Madeline: Oh... I'm just passing through. I'm climbing the Mountain. Do you have a back exit?
+                                    * Mr. Oshiro: ...a back exit? (Just passing through? This will not do.)
+                                    * Madeline: You know I can still hear you, right?
+                                    * Mr. Oshiro: ... In any case, our rear service door is reserved for hotel staff only. However, our top floor presidential suite features a world-class view of the peak. Yes, you'll be quite comfortable up there.
+                                    * Madeline: Maybe I could get on the roof from there and climb down the back?
+                                    * Mr. Oshiro: (The presidential suite, marvelous idea Oshiro!) What is your name, for our records?
+                                    * Madeline: I'm Madeline. But again, I'm really not interested in staying.
+                                    * Mr. Oshiro: Right this way, Ms. Madeline.
+Oshiro then leaves the room. (To add: hitting the bell again?) To the right of the desk is another interactable item, which turns out to be the guest book.
+                                    * It appears to be a very old and dusty guestbook. Many of the pages are damaged or missing. The comments, however, are glowing... "We'll never forget our time here." "I've never felt more at peace. Thank you."
+In the Hotel[edit | edit source]
+After a few rooms, Oshiro will be standing at the far right of a room, and will initiate a short conversation.
+                                    * Mr. Oshiro: Please follow me closely, Ms. Madeline. The elevator is just down the hall.
+                                    * Madeline: The hotel is in pretty rough shape... Is it really open for business?
+                                    * Mr. Oshiro: Of course we're open! The Celestial Resort Hotel would never close during prime tourism season! (Rough shape? What did she mean by that?)Oh! Please allow me to carry your luggage.
+                                    * Madeline: My bag? No thanks, I'll keep it.
+                                    * Mr. Oshiro: Hmm. Very well. (What a peculiar guest.)
+Huge Mess[edit | edit source]
+Once Madeline reaches the bridge of books, towels and boxes, Oshiro is there once again.
+                                    * Mr. Oshiro: Ms. Madeline, I really must implore you to keep up. I'm running a world-class establishment here. I don't have time to wait around for meandering guests.
+                                    * Madeline: You really don't have to wait for me, I'm just looking for a way through this place.
+                                    * Mr. Oshiro: (Oshiro you idiot, the customer is always right!) (Business is finally picking up and you lose your temper!?) Oh... of course Ms. Madeline! My sincere apologies, I was out of line. Please, feel free to explore at your leisure.
+From here, after Madeline navigates to the center of the room above the key, Oshiro is pacing.
+                                    * Mr. Oshiro: Argh! This clutter is out of control! When did this happen!? I don't even know where to begin...
+                                    * Madeline: Mr. Oshiro, do you run this whole place by yourself?
+                                    * Mr. Oshiro: You're right Ms. Madeline, I'll never sort this mess out alone. It's hopeless.
+                                    * Madeline: That's not what I meant... Just breathe, Mr. Oshiro. Breathe. It's just a little spring cleaning. Well, more than a little... But I can help!
+                                    * Mr. Oshiro: You're too kind. But I wouldn't even bother. It's a lost cause.
+From here, the three pathways unlock, and Madeline will choose one of the three sections to clear out. After this, she returns to the main room, where Oshiro is closer to the bottom left of the room this time.
+                                    * Mr. Oshiro: I haven't even begun cleaning and already I feel a renewed lightness of spirit! That's the power of positive thinking!
+                                    * Madeline: Umm, actually... I cleared out some of the clutter for you.
+                                    * Mr. Oshiro: Oh yes, thank you, Ms. Madeline. But please, relax, and let the hotel staff handle it! (Oshiro, you fool. You're losing her.)(Guests don't want to spend their time cleaning!)
+                                    * Madeline: Are you okay?
+                                    * Mr. Oshiro: Yes, of course. This is the finest hotel you'll ever visit, you'll see! (How could I let my problems pile up like this?)
+The two remaining pathways will open up, and Madeline will take one of them. After clearing the next segment of the mess, Oshiro will be near the top right of the main room.
+                                    * Madeline: It's looking a lot nicer in here! Can you show me to the exit now?
+                                    * Mr. Oshiro: But Ms. Madeline, you've barely enjoyed the myriad luxuries that our hotel has to offer! We can talk more once I finish cleaning. I'm very busy! (Yes... young people have no respect these days.)
+                                    * Madeline: ...you're welcome, sheesh.
+At this point, the final pathway opens up.
+At some point, once Madeline takes the middle pathway, she runs into Theo, who is attempting to pry open a vent grate.
+                                    * Madeline: Theo! Are you a "guest" here too?
+                                    * Theo: Madeline! I am so happy to see you right now. I'm all about spooky mysteries, but this is getting too real.
+                                    * Madeline: Have you talked to Mr. Oshiro? I think he could really use some help.
+                                    * Theo: You think? He's a creepy old weirdo. I bet he's cleaning out a nook to hide our bodies as we speak. I'm gonna crawl through this vent, it's blowing cold air in from outside. Come on!
+                                    * Madeline: Mr. Oshiro's troubled, but... I don't think he wants to hurt us. He just needs to clean up this mess. I want to help him.
+                                    * Theo: Madeline, that's very sweet, but this is dangerous. We need to get out of here and call an expert on creepy old dudes. We aren't prepared for this.
+                                    * Madeline: I think I can get through to him. Go on ahead and I'll catch up with you later.
+                                    * Theo: Man, you're more stubborn than my sister. I thought that was impossible. Take care of yourself.
+                                    * Madeline: Thanks Theo. I'll see you outside.
+After clearing the final segment, the key will be available, and Mr. Oshiro will be on the other side of the door.
+                                    * Mr. Oshiro: There you are! You certainly have a knack for wandering off.
+                                    * Madeline: It was tough, but I sorted everything out for you.
+                                    * Mr. Oshiro: The Celestial Resort Hotel extends its gratitude for your assistance, Ms. Madeline. Of course, the staff had the mess under control.
+                                    * Madeline: Oh, sure. Yeah.
+                                    * Mr. Oshiro: (How humiliating.) You must be eager to see your room! It's just up the elevator and down the hall.
+                                    * Madeline: Sure, what the heck. Show me the presidential suite. It sounds lovely.
+                                    * Mr. Oshiro: (Now's your last chance, Oshiro. Don't lose her now.)
+Alternate Theo Dialogue[edit | edit source]
+As all conversations with Theo prior to Celestial Resort are optional, there is a variation of his 'Huge Mess' cutscene for if Madeline has not seen him before.
+                                    * Madeline: Oh hey, are you... a guest here?
+                                    * Theo: Wow, I am so happy to see another person right now. This place seriously gives me the creeps.
+                                    * Madeline: There's definitely something strange about it. I'm Madeline, by the way.
+                                    * Theo: Oh, I'm Theo. I'm all about spooky mysteries, but this is getting too real... [From this point on, the conversation is the same as the 'Madeline and Theo have met before' version.]
+Upper Floor[edit | edit source]
+Once Madeline climbs up the elevator shaft, Theo will poke out from a vent to the right, allowing for an optional conversation with him.
+                                    * Theo: Man, it's a maze in here. How's it going with El Creepo?
+                                    * Madeline: I helped him clean up that huge mess, but he was kind of a jerk about it. And he still things he can convince me to stay.
+                                    * Theo: Madeline, seriously. My bad idea radar is off the charts on this one. You should get out of here.
+                                    * Madeline: If I disappear now, Mr. Oshiro could have a meltdown. And maybe I can actually do something good. For once.
+                                    * Theo: Forget your karma, dude. I think that guy is going to melt down no matter what. You have to think about your safety.
+                                    * Madeline: Theo. I'll be okay.
+                                    * Theo: Yeah, yeah, I didn't expect you to listen. See you on the outside, jailbird.
+Theo will then disappear back into the vent.
+After a few rooms, Madeline will see Mr. Oshiro and overhear the following:
+                                    * Mr. Oshiro: (This is it Oshiro, your last chance.) (You already ruined it. Making a guest clean up your mess? She'll never stay.) (No, she's still here. There's still a chance!) (The presidential suite is the key. It will surely impress her!)
+Following this line, a few dust bunnies come out of Oshiro's head.
+                                    * Mr. Oshiro: (Get it together, Oshiro!)
+More dust bunnies come out of Oshiro's head, creating a barrier in the middle of the room. He then notices Madeline.
+                                    * Mr. Oshiro: There you are, Ms. Madeline! Follow me quickly! We're almost there.
+Presidential Suite[edit | edit source]
+Madeline enters the presidential suite, where Mr. Oshiro waits for her.
+                                    * Mr. Oshiro: Here we are, our award-winning presidential suite! Truly, it is the very definition of rustic luxury. I'll stand back and allow you to soak in the majesty. I understand it can be a lot to handle.
+Madeline walks around the room, looking at the various furniture items (including the large mirror to the right of the room) before turning back towards Oshiro.
+                                    * Mr. Oshiro: So? What do you think?
+                                    * Madeline: It's... uh, it's beautiful. The furniture looks expensive... It's very... spacious. The colors are elegant. I can tell you put a lot of work into it.
+                                    * Mr. Oshiro: I knew it would impress you!
+                                    * Madeline: Yeah. ... So, can I get on the roof from here?
+                                    * Mr. Oshiro: (You imbecile, you're losing her!) Oh err, I almost forgot to mention... Valued guests such as yourself stay in our finest accommodations at half price!
+                                    * Madeline: I... don't want to stay.
+Badeline appears in the room's mirror, looming behind Oshiro.
+                                    * Mr. Oshiro: Please, Ms. Madeline. Please stay.
+                                    * Madeline: Mr. Oshiro, I've already been sidetracked too long...
+Badeline breaks through the mirror and hovers above it. Oshiro turns towards her.
+                                    * Badeline: Madeline, sweetie, forget this loser.
+                                    * Mr. Oshiro: Loser?
+Oshiro slumps down as Badeline continues to hover above him.
+                                    * Badeline: You're in denial, old man. This resort is a dump. No one would ever want to stay here. Someone had to say it.
+                                    * Madeline: She doesn't mean that.
+                                    * Mr. Oshiro: I'm... I'm very busy. Please leave, Ms. Madeline.
+                                    * Badeline: Come on, Ms. Madeline, you heard the man.
+Badeline flies over to the far side of the room and breaks a hole in the ceiling.
+                                    * Badeline: Where would you be without me?
+She then flies up out through this 'exit', and Madeline can optionally try to interact with Mr. Oshiro. Repeatedly interacting can lead to the following lines:
+                                    * Mr. Oshiro: (Why would she say my beautiful hotel is a dump?)
+                                    * Mr. Oshiro: (How dare she insult you like that.)
+                                    * Mr. Oshiro: (What if she's right?)
+                                    * Mr. Oshiro: (Of course she's right. You couldn't even clean up without her help.)
+                                    * Mr. Oshiro: (I tried. I'm doing my best.)
+                                    * Mr. Oshiro: (Ms. Madeline only wanted to help!)
+                                    * Mr. Oshiro: (But why was she so cruel?)
+Hotel Rooftop[edit | edit source]
+As Madeline climbs through the presidential suite 'exit' onto the hotel's rooftop, Badeline materializes above her.
+                                    * Badeline: I thought we'd never get rid of him. You owe me one. Add it to the list.
+                                    * Madeline: Leave me alone.
+Madeline starts to walk away, but Badeline gets closer.
+                                    * Badeline: I thought you were soooo determined to keep climbing. Now all of a sudden you're some weirdo's therapist?
+                                    * Madeline: Why won't you go away?
+Mr. Oshiro floats upwards from the presidential suite, and the two turn to face him.
+                                    * Mr. Oshiro: Ms. Madeline, before you go... I need to ask one question... Why would you be so nice to me, only to run away? What did I do wrong?
+                                    * Badeline: Oh, give it a break. You still don't get it? She only helps people to feed her twisted ego. She never cared about you.
+                                    * Madeline: Shut up! I just wanted to help.
+                                    * Badeline: You're both pathetic.
+Badeline vanishes. Oshiro begins to transform into his 'boss' form.
+                                    * Mr. Oshiro: Pathetic!? You only came here to humiliate me... I won't grovel at your feet any longer!
+After the Presidential Suite subchapter's chase sequence, Madeline reaches the edge of the hotel's roof, and Oshiro (in his boss form) is close behind.
+                                    * Madeline: Mr. Oshiro, stop!
+Oshiro stomps on the roof.
+                                    * Madeline: I just wanted to help!
+Oshiro stomps on the roof once more, collapsing the roof's edge. In a flash of light, Oshiro reverts from his boss form and the two fall to the ground. Oshiro gets up as Madeline breathes in and out.
+                                    * Mr. Oshiro: ... I've decided to close the hotel for repairs. The second floor plumbing is leaking... ...the library is in complete disarray... ...not to mention the hole in the ceiling of the presidential suite. Please, just leave me alone.
+Oshiro goes back into the hotel. Madeline steps towards the hotel as if to follow him, then turns and walks away as the chapter ends.
+
+
+Golden Ridge/Dialogues
+Granny Conversation[edit | edit source]
+Madeline notices the Bird as she approaches some sort of 'hot spring' area, and then runs into Granny.
+                                    * Madeline: Oh great, you again.
+                                    * Granny: Well well, I didn't expect to see you up here! I'm glad you're still in one piece. I see you made it through the hotel, did you meet Mr. Oshiro?
+                                    * Madeline: Oh, I met him alright. He chased me out of there. After I cleaned up a bunch of junk for him.
+                                    * Granny: Oh ho ho, that sounds like a fun morning. Oshiro is a lost soul, dear. That place is much more than just a hotel to him. Don't make him your project.
+                                    * Madeline: You know what I think? I think this Mountain drove both of you crazy.
+                                    * Granny: Y'know, you're not the first person to say that. Maybe you're right. How would I know if I were crazy? The way I see it, the Mountain can't bring out anything that isn't already in you. But you gotta be a few crows short of a murder to live up here in the first place, right?
+                                    * Madeline: What are you even talking about?
+                                    * Granny: Oh, I'm just rambling like the old bat I am. Are you ready to give up? I know a shortcut back to your car.
+Madeline takes a few steps past Granny, looking towards the path ahead.
+                                    * Madeline: Back off, lady. I'm heading for the summit.
+                                    * Granny: Sometimes it's hard to tell the difference between stubbornness and determination, isn't it? You remind me of myself when I was young. Good luck, and mind the wind!
+Optionally, Madeline can interact with Granny to continue the conversation.
+                                    * Madeline: You don't get many visitors up here, do you?
+                                    * Granny: No, I can't say I do. I don't mind the solitude, though.
+                                    * Madeline: Sometimes I think I should live in solitude too. I really tried to get through to Mr. Oshiro. I wanted to help him.
+                                    * Granny: Oshiro needs to move on from that hotel. But it's not going to happen on your schedule. And it doesn't help that you've got something to prove.
+                                    * Madeline: ...
+Interacting once again leads to further dialogue:
+                                    * Madeline: Don't you get lonely in that little cabin?
+                                    * Granny: I have friends, dear. I may be crazy, but I'm not a hermit.
+                                    * Madeline: Sorry. I didn't mean to assume.
+                                    * Granny: When I was younger I couldn't imagine staying in one place for this long. But then I found this Mountain. I knew right away that it would be my home.
+                                    * Madeline: What's so special about it?
+                                    * Granny: The Mountain shows you who you really are. Whether you're ready for it or not. It keeps me honest.
+The Gondola[edit | edit source]
+As the wind dies down, Madeline approaches the end of Golden Ridge and finds a large chasm. The only way across seems to be via a gondola, which Madeline walks inside of.
+                                    * ???: Madeline! Wait up!
+The speaker is revealed to be Theo, approaching from a path above the gondola area. He trips off a ledge and falls down, faceplanting near where Madeline stands.
+                                    * Theo: Nailed it.
+                                    * Madeline: Theo! Are you alright?
+                                    * Theo: Oof. Yeah. Just give me a sec.
+Theo gets up and walks towards Madeline.
+                                    * Theo: A gondola! I've always wanted to ride one of these.
+                                    * Madeline: It looks pretty old, but maybe it still works. I don't see any other way to cross this chasm.
+                                    * Theo: Let's do it!
+Theo enters the gondola, approaching the lever inside it.
+                                    * Theo: This lever looks important.
+With some effort, Theo pulls the lever, and the gondola begins to take them both across the gap.
+                                    * Theo: Easy every time. I was probably a gondola operator in a past life.
+                                    * Madeline: Do you think this thing is safe?
+                                    * Theo: I'm sure it's fine. How'd it shake out with Oshiro?
+                                    * Madeline: You were right. I shouldn't have tried to help him.
+                                    * Theo: I hate to say I told you so, but...
+                                    * Madeline: Yeah yeah... I should've listened to you.
+                                    * Theo: You didn't get hurt, that's what matters.
+                                    * Madeline: The air is so thin up here. I can barely breathe.
+Madeline walks towards a wall of the gondola, looking out in the distance.
+                                    * Theo: Okay, if we don't get a selfie on this thing we're going to regret it.
+                                    * Madeline: I can't even see the ground through the mist... How high up are we?
+                                    * Theo: Less panicking, more posing.
+Madeline walks towards Theo and the two pose for a picture together. Just as the photo is snapped, the gondola lurches to a halt. Badeline materializes on the gondola's roof as the structure rocks back and forth.
+                                    * Madeline: What was that?
+                                    * Theo: Huh. Looks like we stalled out.
+Madeline paces back and forth inside the gondola.
+                                    * Madeline: This is really bad...
+                                    * Theo: Maybe if I...
+Theo tugs at the lever once more, but it snaps off. The force of the pull sends the broken lever handle out of the gondola and careening into the abyss.
+                                    * Theo: Well, that's not good.
+Madeline slumps to the ground, hyperventilating. Badeline vanishes from the rooftop. The surroundings darken and strange tendrils seem to materialize around the gondola, though Theo does not seem to notice this.
+                                    * Madeline: No, this really isn't good.
+Theo kneels down and places a hand on Madeline's shoulder.
+                                    * Theo: Madeline, you cool?
+                                    * Madeline: Yeah... I just... No, I'm not cool. I can't breathe.
+                                    * Theo: You're having a panic attack.
+                                    * Madeline: Why would you think it's a good idea to ride this stupid thing?
+                                    * Theo: Come on, don't take this out on me. Stay with me here. My grandpa taught me a trick for this. Close your eyes.
+The following dialogue is not done in the usual 'text box' format, instead being accompanied by the 'golden feather' minigame:
+                                    * Theo: Picture a feather floating in front of you. See it? Okay. Your breathing keeps that feather floating. Just breathe slow and steady, in and out.
+As the minigame ends, the gondola resumes its movement, and the surroundings return to normal. The cutscene resumes its normal textbox format:
+                                    * Theo: See? Easy every time.
+The two spend the rest of the gondola ride in silence, disembarking once they reach the other side of the chasm.
+                                    * Theo: Feeling any better?
+                                    * Madeline: I think so. Thanks for helping me calm down. How did you know we'd start moving again?
+                                    * Theo: Oh, I totally thought we were done for.
+Theo pulls out his phone and begins to search for something.
+                                    * Theo: Oh. My. God. Look at this selfie though!
+Madeline goes over to look at Theo's phone, and sees the photo from when the gondola stalled, concluding the chapter.
+
+
+Mirror Temple/Dialogues
+Into the Temple[edit | edit source]
+"Start" Checkpoint[edit | edit source]
+At the very beginning of the chapter at the entrance of the Mirror Temple, Theo walks up to the entry way and starts talking to Madeline.
+                                    * Theo: Oh man, look at this place!
+Feeling Adventurous?
+                                    * Madeline: Uh, I don't know.
+It looks pretty dark in there.
+More like a nightmare than an adventure.
+                                    * Theo: I'll just take a quick peek, snap a few photos.
+This place must be ancient!
+                                    * Madeline: Theo, wait.
+                                    * Theo: My InstaPix followers are gonna eat this up.
+[Theo walks into the Mirror Temple, leaving Madeline by herself]
+                                       * Madeline (to herself): There's no way this ends well.
+Theo's Phone[edit | edit source]
+Optionally, Madeline can find Theo's phone near a strange mirror in the temple, and interacting with it leads to the following dialogue:
+                                       * Madeline: Uh oh.
+[Madeline bends down to examine the phone]
+                                       * Madeline: This is Theo's phone...
+[Madeline takes the phone.]
+                                       * Don't panic, Madeline. Maybe it just fell out of his pocket. I'll give it back to him when I find him.
+"Depths" Checkpoint[edit | edit source]
+After Madeline passes through the first key door, she finds Theo trapped in a mirror.
+                                       * Madeline: Theo! There you are!
+                                       * Theo: Madeline! Hey!
+...uh, why are you inside a mirror?
+                                       * Madeline: I'm pretty sure you're the one in the mirror.
+What happened?
+                                       * Theo: Well I was taking a nonchalant mirror selfie...
+Y'know, "It's your boy Theo in this ancient temple, no big deal."
+#blessed
+Next thing I know I wake up lying on the ground.
+                                       * Madeline: What does it look like over there?
+How can I find you?
+                                       * Theo: It's, uh... it's really dark and weird. There's...
+Wait, something's coming.
+I'm feeling a strong inclination to run away.
+Be careful, okay?
+Through the Mirror[edit | edit source]
+Confrontation with Badeline[edit | edit source]
+Right after the drop at the start of the "Unraveling" checkpoint, you have a verbal confrontation with Badeline. She will dash backwards between dialogue sequences, and you simply have to go up to her to continue to the next dialogue.
+                                          * Madeline: Hey! Where are we?
+What did you do to Theo?
+                                          * Badeline: You think I'm doing this?
+That's cute.
+Sweetheart, this is exactly what I warned you about.
+[Badeline dashes backwards]
+                                             * Madeline: Don't try to make this my fault.
+                                             * Badeline: You still don't get it?
+The Mountain gave me this body.
+But I'm not the only creepy thing living in that messed up head of yours.
+Don't like what you see?
+What a surprise.
+                                             * Madeline: Shut up!
+                                             * Badeline: I tried to stop you.
+Look into the mirror, all of this is yours.
+This temple only magnifies the Mountain's power.
+You're in control here, not me.
+[Badeline dashes backwards]
+                                                * Madeline: I don't believe you.
+If you're Part of Me, why do you want to hurt me so bad?
+                                                * Badeline: Poor Madeline, always the victim.
+All I do is babysit you, and you hate me for it.
+You're unravelling and you know it.
+                                                * Madeline: If you care so much about protecting me, why didn't you just explain what was going on?
+                                                * Badeline: Like you would have listened?
+You never gave me a chance.
+[Badeline dashes backwards]
+                                                   * Madeline: Please, just get me out of here.
+                                                   * Badeline: Now you want me to save you?
+                                                   * Madeline: Why are you doing this?
+Just be on my side here.
+Please.
+                                                   * Badeline: Stop trying to make me feel like a monster.
+You really want to know why I won't help?
+Because you deserve this.
+                                                   * Madeline: ...
+                                                   * Badeline: Still think you can climb this Mountain?
+                                                   * Madeline: SHUT UP!
+[Badeline dashes out of the room]
+                                                      * Madeline: I don't need your help.
+I'll do this alone.
+Temple Depths Checkpoint (Madeline's Self Peptalk)[edit | edit source]
+                                                         * Madeline: If this is all in my head, why is it so hostile? Those things are hunting me. I'm a trespasser in my own world.
+[Camera pans inward, Madeline dons a worried demeanour].
+                                                         * Madeline: Theo is trapped somewhere in here because of me. If I give in fully, maybe the temple will let him go...
+[Madeline breathes, calming herself.]
+Madeline's text box for this next line of dialogue is presented as though her reflection in the mirror is talking, similar to Theo's dialogue in "Depths".
+                                                         * Madeline: ... Breathe. This is all coming from inside me. Get up, Madeline Think of the feather. You can save Theo.
+Rescuing Theo[edit | edit source]
+"Search" Checkpoint[edit | edit source]
+In the 'Search' subchapter, Madeline can optionally interact with Theo, though a barrier of spinners blocks her from reaching him.
+                                                         * Madeline: Theo! Thank God I found you.
+                                                         * Theo: Madeline! Wow, am I happy to see you.
+                                                         * Madeline: Are you alright?
+                                                         * Theo: Yeah, I'm fine. I've just been stuck in this... crystal thing for ages. Do you get the feeling that this place knows you better than you know yourself?
+                                                         * Madeline: Yeah... I'm so embarassed that you have to see this side of me. I tried to stop you. I hope that selfie was worth it.
+                                                         * Theo: Selfies are always worth it, dude.
+                                                         * Madeline: I shouldn't be mad, this isn't your fault. I'm glad you're safe, but you're trapped because of me. And now this temple is showing you what I'm really like. I'm horrible...
+                                                         * Theo: Hey, we're in this together. Don't act like this is all on you.
+Interacting again leads to Madeline continuing the conversation:
+                                                         * Madeline: What do you mean?
+                                                         * Theo: You didn't trap me in this crystal. Sure, those monsters are coming from you, but the temple is shaping itself around me too. I can feel it. These eyes are staring at me... And this crystal is coming from me, I know it. I hate to ask, but I really need your help right now.
+                                                         * Madeline: ... Okay. I've got your back. I'll bust you out of that thing, then we'll escape together. Just as soon as I find my way around to you...
+                                                         * Theo: Madeline, you're my only hope right now. I believe in you, for real.
+                                                         * Madeline: I hope that's not a mistake.
+If Madeline interacts once more:
+                                                         * Madeline: If the temple is showing me who I really am... ...then I deserve this, don't I?
+                                                         * Theo: Alex, you have to stop being so hard on yourself.
+                                                         * Madeline: ... Who's Alex?
+                                                         * Theo: Sorry, I meant Madeline. But my comment still stands. No one deserves this, least of all you.
+                                                         * Madeline: Yeah... you're right. Okay, I can do this.
+Reuniting with Theo[edit | edit source]
+Once Madeline enters the 'Rescue' subchapter, she approaches Theo from the other side of the aforementioned spinner barrier. He is still trapped in a crystal atop a strange pillar, surrounded by eyes which remain focused on him.
+                                                         * Madeline: Theo! I finally found you.
+                                                         * Theo: I knew you'd make it!
+                                                         * Madeline: It wasn't easy... Are those monsters really coming from inside me?
+                                                         * Theo: Madeline, that's a valid question. I'll be happy to discuss how the monsters relate to your inner self... But right now, my inner self is real sick of being stuck in this crystal.
+                                                         * Madeline: Oh, right. Don't worry, I'll break you out!
+Madeline dashes upwards, breaking Theo's crystal from the pillar in a flash of light. Theo, remaining in the crystal, falls to the ground.
+                                                         * Theo: Well, this is a solid start, but... This crystal is, like, an expression of my negative psychic energy... or whatever.
+                                                         * Madeline: Yeah, but how do we break it?
+                                                         * Theo: If I knew why I trapped myself in this thing, maybe I could bust out. But I don't. And I don't think I can get to the bottom of it while we're stuck in this nightmare dimension. I hate to say it, but you might have to-
+                                                         * Madeline: Theo, don't even think about that! I am not leaving you behind!
+                                                         * Theo: Hell no, you better not leave me in this place! I was gonna say you might have to carry me.
+                                                         * Madeline: Oh. Yeah, I can do that.
+Theo's 'Commentary'[edit | edit source]
+After Madeline picks up Theo and begins the gameplay of the 'Rescue' subchapter, Theo (still in the crystal) will make various comments as Madeline carries him through the rooms of the temple. His commentary will be in small textboxes at the top of the screen, allowing for normal gameplay to be done while he is talking. Theo's lines include:
+                                                         * [Initially picking him up in 'Rescue']: Dang girl, you can lift.
+                                                         * [Entering 'Rescue' room 2]: Alright, you got this!
+                                                         * [Exiting 'Rescue' room 2]: Crushing it! That door didn't stand a chance.
+                                                         * ['Rescue' room 3]: Uh oh... I hope you know how to deal with these things.
+                                                         * ['Rescue' room 4]: Another one!? Come on...
+                                                         * ['Rescue' room 6, when Theo activates a dash switch]: I'm helping.
+                                                         * ['Rescue' room 6, if Madeline obtains the berry]: Now you're just showing off.
+                                                         * ['Rescue' room 7, upon activating a touch switch blocked by spinners]: Theo saves the day again.
+                                                         * ['Rescue' room 11]: We have to be close, I can feel it.
+                                                         * ['Rescue' room 11, if Madeline dies twice]: Just a bit further, you can do this Madeline.
+B-Side Dialogue[edit | edit source]
+In the 'Mix Master' subchapter of the Mirror Temple's B-side, Theo will have 'commentary' similar to his comments in the A-Side's 'Rescue' subchapter.
+                                                         * ['Mix Master' room 1]: It's the temple remix, featuring your boy Mix Master Theo!
+                                                         * ['Mix Master' room 3]: This isn't canon, is it?
+                                                         * ['Mix Master' room 5]: Uhh, this one is clearly impossible.
