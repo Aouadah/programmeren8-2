@@ -22,12 +22,14 @@ async function loadVectorStore() {
 await loadVectorStore();
 
 const messages = [
-    ["system", `You are a host for a gaming related quiz. You ask the user 5 questions in total and give them 4 options 
+    ["system", `You are a host for a gaming related quiz. First, the user will tell you what game they want a quiz
+        about. You ask the user 5 questions in total and give them 4 options 
         (A, B, C or D). Only one of the options is the correct answer, with the other 3 being false. After the 
         user chooses an answer, you give them another question. Give the user the freedom to choose whichever game
-        he wants a do a quiz about. Give the user a score at the end of the quiz.`],
-    ["ai", "Question 1: which game is made by Nintendo? A: Astrobot. B: Celeste. C: Super Mario Brothers 3. D: Terraria"],
-    ["human", "C"]
+        he wants a do a quiz about. Give the user a score at the end of the quiz. If the quiz isn't about celeste, 
+        don't mention the game or the document.`],
+    ["ai", "Question 1: What is the name is Mario's brother? A: Wario. B: Luigi. C: Toad. D: Bowser"],
+    ["human", "B"]
 ]
 
 const model = new AzureChatOpenAI({ 
